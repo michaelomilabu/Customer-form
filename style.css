@@ -1,0 +1,120 @@
+body{
+    background: rgb(0,212,255);
+ background: linear-gradient(58deg, rgba(0,212,255,1) 30%, rgba(35,77,203,1) 55%, rgba(141,45,162,1) 96%);
+}
+.wholeform{
+    width: 700px;
+    margin:15px auto;
+}
+#fn{
+    border: 1px solid rgb(245, 239, 239);
+    background-color: rgb(245, 239, 239);
+    height: 20px;
+    font-size: 1em;
+    font-family:'B612 Mono', monospace;
+    font-weight: 300;
+}
+#ln{
+    border: 1px solid rgb(245, 239, 239);
+    background-color: rgb(245, 239, 239);
+    height: 20px;
+    font-size: 1em;
+    font-family:'B612 Mono', monospace;
+    font-weight: 300;
+}
+.info{
+    display: flex;   
+}
+
+.info div{
+    margin-right:20px;
+}
+#address{
+    border: 1px solid rgb(245, 239, 239);
+    background-color: rgb(245, 239, 239);
+    height: 30px;
+    font-size: 1em;
+    font-family:'B612 Mono', monospace;
+    font-weight: 300;
+    width:400px;
+}
+#address2{
+    border: 1px solid rgb(245, 239, 239);
+    background-color: rgb(245, 239, 239);
+    height: 30px;
+    font-size: 1em;
+    font-family:'B612 Mono', monospace;
+    font-weight: 300;
+    width:400px;
+}
+#city{
+    border: 1px solid rgb(245, 239, 239);
+    background-color: rgb(245, 239, 239);
+    height: 25px;
+    font-size: 1em;
+    font-family:'B612 Mono', monospace;
+    font-weight: 300;
+}
+#state{
+    border: 1px solid rgb(245, 239, 239);
+    background-color: rgb(245, 239, 239);
+    height: 25px;
+    font-size: 1em;
+    font-family:'B612 Mono', monospace;
+    font-weight: 300;
+}
+#zip{
+    border: 1px solid rgb(245, 239, 239);
+    background-color: rgb(245, 239, 239);
+    height: 20px;
+    font-size: 1em;
+    font-family:'B612 Mono', monospace;
+    font-weight: 300; 
+    width:90px;
+}
+
+#area{
+    border: 1px solid rgb(245, 239, 239);
+    background-color: rgb(245, 239, 239);
+    height: 20px;
+    font-size: 1em;
+    font-family:'B612 Mono', monospace;
+    font-weight: 300;
+    width:70px;
+}
+#phone{
+    border: 1px solid rgb(245, 239, 239);
+    background-color: rgb(245, 239, 239);
+    height: 20px;
+    font-size: 1em;
+    font-family:'B612 Mono', monospace;
+    font-weight: 300;
+    width:120px;
+}
+.info1{
+    display:flex;
+}
+.info1 div{
+      margin-right: 10px;
+}
+.info2{
+    display: flex;
+}
+.info2 div{
+    margin-right: 120px;
+}
+.info3{
+    display: flex;
+}
+.info3 div{
+    margin-right: 10px;
+}
+#mail{
+    border: 1px solid rgb(245, 239, 239);
+    background-color: rgb(245, 239, 239);
+    height: 20px;
+    font-size: 0.8em;
+    font-family:'B612 Mono', monospace;
+    font-weight: 300;
+    width:200px;
+}
